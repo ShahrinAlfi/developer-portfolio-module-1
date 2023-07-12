@@ -183,3 +183,14 @@ main section {
   text-align: center;
   margin: 20px 0 20px;
 }
+
+footer{
+  display: flex;
+  gap: 20px;
+  background: #FFF8F3;
+  margin-top: 100px;
+  padding: 130px 230px;
+}
+.footer-colum{
+  padding: 0 20px 0;
+}
